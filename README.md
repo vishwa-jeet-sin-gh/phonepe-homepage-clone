@@ -17,6 +17,7 @@ Want to improve the project? Feel free to fork and contribute!
 
 📸 Screenshots
 ![image_alt](https://github.com/vishwa-jeet-sin-gh/phonepe-homepage-clone/blob/f8d1be8e85b978904a3dc19809d17c1afc2dd87e/Screenshot%202025-02-21%20130058.png)
+![image_alt](https://github.com/vishwa-jeet-sin-gh/phonepe-homepage-clone/blob/main/Screenshot%202025-02-21%20130123.png?raw=true)
 
 📬 Connect With Me
 💼 LinkedIn: www.linkedin.com/in/vishwajeet-singh-006413258
